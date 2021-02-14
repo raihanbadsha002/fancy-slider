@@ -27,12 +27,7 @@ img {
   height: 400px;
   object-fit: cover;
 }
-.gallery img{
-  transition: all .5s ease-in;
-}
-.gallery img:hover{
-transform: scale(0.995);
-}
+
 
 .prev-next {
   position: absolute;
